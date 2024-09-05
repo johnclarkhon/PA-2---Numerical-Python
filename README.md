@@ -1,4 +1,4 @@
-# PA2-Numerical_Python (NUMPY)
+# PA2: NumericalPython (NUMPY)
 ### Name: John Clark D. Honrado
 ### 2ECE-A
 
