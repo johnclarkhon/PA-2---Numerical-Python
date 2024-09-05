@@ -1,4 +1,7 @@
 # PA2-Numerical_Python (NUMPY)
+### Name: John Clark D. Honrado
+### 2ECE-A
+
 This project focuses on using Numpy Library
 
 Normalization Problem:
