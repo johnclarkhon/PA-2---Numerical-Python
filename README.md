@@ -5,7 +5,7 @@
 This project focuses on using Numpy Library
 
 
-##Requirements before doing the projects:
+## Requirements before doing the projects:
 1. Install the latest version of Python
 2. Get Anaconda Navigator installed
 3. Make sure to have Numpy library using "pip list" in cmd-administrator to check all the installed libraries, if not type "pip install numpy" to install it
