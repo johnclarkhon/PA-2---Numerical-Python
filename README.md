@@ -7,14 +7,14 @@ This project focuses on using Numpy Library in Python. It will demonstrate how t
 
 
 
-## Requirements before doing the projects:
+## Requirements before doing the project:
 1. Install the latest version of Python
 2. Get Anaconda Navigator installed
 3. Make sure to have Numpy library using "pip list" in cmd-administrator to check all the installed libraries, if not type "pip install numpy" to install it
 
 
 
-## Steps in doing the projects:
+## Steps in doing the project:
 1. Open Anaconda Navigator
 2. Launch Jupyter Notebook (You will then be redirected to the Web application)
 3. On the top-right corner, click New > Python 3 (ipykernel), to create new .ipynb file
