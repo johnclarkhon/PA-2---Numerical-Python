@@ -1,18 +1,18 @@
 # PA2: Numerical Python (NUMPY)
 ### Name: John Clark D. Honrado
 ### Section: 2ECE-A
-###
+
 
 This project focuses on using Numpy Library. It will demonstrate how to create arrays, and perform numerical operations.
 
-###
+
 
 ## Requirements before doing the projects:
 1. Install the latest version of Python
 2. Get Anaconda Navigator installed
 3. Make sure to have Numpy library using "pip list" in cmd-administrator to check all the installed libraries, if not type "pip install numpy" to install it
 
-###
+
 
 ## Steps in doing the projects:
 1. Open Anaconda Navigator
@@ -21,7 +21,7 @@ This project focuses on using Numpy Library. It will demonstrate how to create a
 4. Refer on PA2_HONRADO_2ECE-A.ipynb for the codes
 
 
-###
+
 ## Project Descriptions:
 
 ### Normalization Problem:
@@ -32,7 +32,4 @@ This problem creates a random 5 x 5 ndarray, normalize each values using .mean()
 ### Divisible By 3 Problem:
 
 This problem creates a 10 x 10 ndarray with squares of first 100 positive integers, determine all the elements that are divisible by 3, then save the result as div_by_3.npy
-
-
-###
 
