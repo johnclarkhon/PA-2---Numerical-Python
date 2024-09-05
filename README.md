@@ -11,6 +11,12 @@ This project focuses on using Numpy Library
 3. Make sure to have Numpy library using "pip list" in cmd-administrator to check all the installed libraries, if not type "pip install numpy" to install it
 
 
+## Steps in doing the projects:
+1. Open Anaconda Navigator
+2. Launch Jupyter Notebook (You will then be redirected to the Web application)
+3. On the top-right corner, click New > Python 2 (ipykernel), to create new .ipynb file
+
+
 ## Project Descriptions:
 
 ### Normalization Problem:
