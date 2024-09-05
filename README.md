@@ -18,6 +18,7 @@ This project focuses on using Numpy Library
 1. Open Anaconda Navigator
 2. Launch Jupyter Notebook (You will then be redirected to the Web application)
 3. On the top-right corner, click New > Python 3 (ipykernel), to create new .ipynb file
+4. Refer on PA2_HONRADO_@ece-A.ipynb for the codes
 
 
 ###
