@@ -3,7 +3,7 @@
 ### Section: 2ECE-A
 
 
-This project focuses on using Numpy Library. It will demonstrate how to create arrays, and perform numerical operations.
+This project focuses on using Numpy Library in Python. It will demonstrate how to create arrays, and perform numerical operations.
 
 
 
